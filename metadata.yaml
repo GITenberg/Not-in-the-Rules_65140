@@ -1,0 +1,27 @@
+_repo: Not-in-the-Rules_65140
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Reynolds, Mack
+    aliases:
+    - Mallory, Mark
+    - Reynolds, Dallas McCord
+    - McCord, Guy
+    birthdate: 1917
+    deathdate: 1983
+    gutenberg_agent_id: '25744'
+    url: http://www.gutenberg.org/2009/agents/25744
+    wikipedia: https://en.wikipedia.org/wiki/Mack_Reynolds
+description: ''
+gutenberg_issued: '2021-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65140'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Not in the Rules
+url: http://www.gutenberg.org/ebooks/65140
